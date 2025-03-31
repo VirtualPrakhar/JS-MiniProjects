@@ -92,6 +92,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    padding-bottom: 40px;
 }
 
 .image-gallery .images{
@@ -152,4 +155,21 @@ body{
 
 .download img:hover{
     background-color: rgb(10, 30, 111, 0.566);
+}
+
+#load{
+    width: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(10, 30, 111);
+    border: none;
+    transition: all 0.5s;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    display: none;
+}
+
+#load:hover{
+    background-color: rgb(10, 30, 111, 0.566);;
 }
