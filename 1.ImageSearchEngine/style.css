@@ -173,3 +173,23 @@ body{
 #load:hover{
     background-color: rgb(10, 30, 111, 0.566);;
 }
+
+@media (max-width:800px){
+    .content h1{
+        font-size: 5vw;
+    }
+    .content p{
+        font-size: 3.32vw;
+    }
+    .search-box{
+        width: 80%;
+        height: 10%;
+    }
+    .btn button{
+        width: 35px;
+        height: 35px;
+    }
+    .btn button img{
+        width: 20px;
+    }
+}
