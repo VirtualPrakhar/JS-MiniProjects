@@ -32,7 +32,7 @@ async function getResponse() {
     }
     load.style.display ="block";
 
-    console.log(results);
+    // console.log(results);
 
     results.map((result)=>{
         let li = document.createElement("li");
