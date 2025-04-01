@@ -1,4 +1,4 @@
-[1] JS Mini Project : ToDo list #PrakharJSDose
+[2] JS Mini Project : Listify #PrakharJSDose
 
 Project Deployed Link : 
 
