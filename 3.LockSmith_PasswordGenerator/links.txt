@@ -1,5 +1,5 @@
 [3] JS Mini Project : LockSmith #PrakharJSDose
 
-Project Deployed Link : 
+Project Deployed Link : https://locksmith-password.netlify.app/
 
 GitHub Repo Link : https://github.com/VirtualPrakhar/JS-MiniProjects/tree/main/3.LockSmith_PasswordGenerator
