@@ -2,4 +2,4 @@
 
 Project Deployed Link : https://listify-todo-app.netlify.app/
 
-GitHub Repo Link : https://github.com/VirtualPrakhar/JS-MiniProjects/tree/main/2.ToDoList
+GitHub Repo Link : https://github.com/VirtualPrakhar/JS-MiniProjects/tree/main/2.Listify_ToDoList
