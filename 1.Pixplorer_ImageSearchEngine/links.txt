@@ -1,5 +1,0 @@
-[1] JS Mini Project : Pixplorer #PrakharJSDose
-
-Project Deployed Link : https://pixplorer-image-search.netlify.app/
-
-GitHub Repo Link : https://github.com/VirtualPrakhar/JS-MiniProjects/tree/main/1.Pixplorer_ImageSearchEngine
